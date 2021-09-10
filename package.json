@@ -1,0 +1,26 @@
+{
+  "name": "my_predict_app",
+  "version": "1.0.0",
+  "description": "Deploying a trained Keras model using Tensorflow.js",
+  "scripts": {
+    "start-client": "webpack && webpack-dev-server",
+    "start-server": "node server.js"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "clang-format": "~1.5.0",
+    "mkdirp": "~1.0.4",
+    "node-pre-gyp": "0.12.0",
+    "webpack": "~5.52.0",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.1.0"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.9.0",
+    "argparse": "^2.0.1",
+    "socket.io": "~4.2.0"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}

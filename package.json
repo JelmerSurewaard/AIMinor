@@ -18,9 +18,11 @@
   "dependencies": {
     "@tensorflow/tfjs-node": "^3.9.0",
     "argparse": "^2.0.1",
-    "socket.io": "~4.2.0"
+    "bcrypt": "^5.0.1",
+    "socket.io": "~4.2.0",
+    "tfjs": "^0.6.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "14.17.6"
   }
 }

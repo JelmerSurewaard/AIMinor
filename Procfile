@@ -1,1 +1,0 @@
-web: node predict_app_heroku.js

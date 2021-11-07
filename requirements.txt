@@ -16,13 +16,7 @@ Pillow==8.4.0
 protobuf==3.14.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.7
-pywin32==228
-sip==4.19.13
 tensorboard==2.7.0
 tensorflow==2.7.0
 tensorflow-estimator==2.7.0
 tensorflow-io-gcs-filesystem==0.21.0
-termcolor==1.1.0
-terminado==0.9.4
-webencodings==0.5.1
-wincertstore==0.2

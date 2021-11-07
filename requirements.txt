@@ -1,3 +1,4 @@
+absl-py @ file:///home/conda/feedstock_root/build_artifacts/absl-py_1623774798911/work
 aiohttp @ file:///D:/bld/aiohttp_1623682523147/work
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613037869401/work
 astor @ file:///home/conda/feedstock_root/build_artifacts/astor_1593610464257/work

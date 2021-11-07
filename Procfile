@@ -1,1 +1,1 @@
-web: gunicorn <Mood_Predict>:app
+web: gunicorn <moodpredicthcaid>:app
